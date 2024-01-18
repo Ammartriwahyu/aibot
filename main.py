@@ -47,4 +47,4 @@ async def check(ctx):
     else:
         await ctx.send('ANDA TIDAK MENGIRIMKAN APAPUN')
 
-bot.run("MTEzNDEwNTc3MjU4Mjc3Njg4Mg.GlSh0n.7eQWBSK9X7Mg-bnPY8_xWFwsJgXMP0oGAydDTM")
+bot.run("WLEEEE")
